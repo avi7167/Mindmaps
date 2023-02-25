@@ -2,6 +2,6 @@
 
 ### Signup
 
-Visit [Signup Checks](Unable to render rich display) to download the pdf version.
+[Download PDF version](https://github.com/avi7167/Mindmaps/blob/main/signup/SignupChecks.pdf)
 
 ![Signup checks](/avi7167/Mindmaps/blob/main/SignupChecks.png)
