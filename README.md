@@ -2,7 +2,7 @@
 
 
 
-### :keycap_one: Cross-Site Scripting XSS
+### :rocket: Cross-Site Scripting XSS
 
 #### Overview, Types in Detail, Testing Methodology, Bypasses etc. 
 
