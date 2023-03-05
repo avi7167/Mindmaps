@@ -4,9 +4,9 @@
 
 ### Cross-Site Scripting XSS
 
-#### Everyting About XSS
+#### Overview, Types in Detail, Testing Methodology, Bypasses etc. 
 
-##### Overview 
+##### 1. Overview 
 
 [Download PDF version](https://github.com/avi7167/Mindmaps/blob/main/XSS/a_About_XSS.pdf)
 
