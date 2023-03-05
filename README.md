@@ -2,7 +2,7 @@
 
 
 
-### Cross-Site Scripting XSS
+### :bulb: Cross-Site Scripting XSS
 
 #### Overview, Types in Detail, Testing Methodology, Bypasses etc. 
 
