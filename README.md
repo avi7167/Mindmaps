@@ -12,7 +12,7 @@
 
 ![XSS Overview](/XSS/a_About_XSS.png)
 
-***
+---
 
 ### SignUp
 
