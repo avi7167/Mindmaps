@@ -1,10 +1,10 @@
-# Application Security Bug Mindmaps
+# :bulb: Application Security Bug Mindmaps
 
 
 
-### :bulb: Cross-Site Scripting XSS
+###  Cross-Site Scripting XSS
 
-####        Overview, Types in Detail, Testing Methodology, Bypasses etc. 
+#### Overview, Types in Detail, Testing Methodology, Bypasses etc. 
 
 ##### 1. Overview 
 
