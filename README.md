@@ -1,6 +1,14 @@
 # :bulb: Application Security Bug Mindmaps
 
+---
 
+### :rocket: Obfuscation, Encoding and Escaping Basics
+
+[Download PDF version](https://github.com/avi7167/Mindmaps/blob/main/obfuscation/ObfuscationEncodingEscaping.pdf)
+
+![Obfuscation Basics](/obfuscation/ObfuscationEncodingEscaping.png)
+
+---
 
 ### :rocket: Cross-Site Scripting XSS
 
@@ -14,7 +22,7 @@
 
 ---
 
-### SignUp
+### :rocket: SignUp
 
 #### Vulnerabilities and Secuity issues in registration funtionality 
 
@@ -22,14 +30,7 @@
 
 ![Signup checks](/signup/SignupChecks.png)
 
-
-
-
-### Obfuscation, Encoding and Escaping Basics
-
-[Download PDF version](https://github.com/avi7167/Mindmaps/blob/main/obfuscation/ObfuscationEncodingEscaping.pdf)
-
-![Obfuscation Basics](/obfuscation/ObfuscationEncodingEscaping.png)
+---
 
 
 
