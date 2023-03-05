@@ -1,4 +1,4 @@
-# :bulb: Application Security Bug Mindmaps
+# :bulb: Application Security Mindmaps
 
 ---
 
