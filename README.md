@@ -32,9 +32,9 @@
 
 ---
 
-### :rocket: SignUp
+### :rocket: noSQL Injection
 
-#### MongoDB Injection 
+#### 1. MongoDB Injection 
 
 [Download PDF version](https://github.com/avi7167/Mindmaps/blob/main/noSQLInjection/mongoDBinjection.pdf)
 
